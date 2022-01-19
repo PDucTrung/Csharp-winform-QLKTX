@@ -1,0 +1,273 @@
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.compiled
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.compiled
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.AssemblyReference.cache
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\Learn code\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
