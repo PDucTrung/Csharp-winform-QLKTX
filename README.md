@@ -1,2 +1,2 @@
 # C-winform-QLKTX
-* databast sql Server
+* database sql Server
